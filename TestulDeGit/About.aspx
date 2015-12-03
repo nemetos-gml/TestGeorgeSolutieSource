@@ -4,7 +4,5 @@
     <h2><%: Title %>.</h2>
     <h3>Your application description page.</h3>
     <p>Use this area to provide additional information.</p>
+	<asp:Label ID="timeShow" runat="server"></asp:Label>
 </asp:Content>
-Modificat Online
-Modificat Local
-Modificat si online test fetch
